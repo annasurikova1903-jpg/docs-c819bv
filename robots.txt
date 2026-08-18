@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-l48chw.kujang138gold.online/sitemap.xml
